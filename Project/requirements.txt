@@ -1,0 +1,53 @@
+
+deep_translator
+
+# Core Dependencies
+streamlit>=1.29.0
+pandas>=2.0.0
+numpy>=1.24.0
+python-dotenv>=1.0.0
+nest-asyncio>=1.5.0
+
+# Machine Learning & Model Training
+scikit-learn>=1.3.0
+joblib>=1.3.0
+
+# LangGraph and LangChain (Multi-Agent Orchestration)
+langgraph>=0.0.40
+langchain>=0.1.0
+langchain-community>=0.0.20
+langchain-google-genai>=1.0.0
+langchain-core>=0.1.0
+
+
+# Google AI (Gemini LLM)
+google-generativeai>=0.3.0
+
+# Additional AI/ML Tools (Future Enhancement)
+sentence-transformers>=2.2.0
+huggingface-hub>=0.16.0
+faiss-cpu>=1.7.0
+transformers>=4.30.0
+sentencepiece>=0.1.99
+
+# Utilities (Multi-Purpose Tools)
+googletrans==3.1.0a0
+pymupdf>=1.23.0
+PyPDF2>=3.0.0
+
+# Development and Testing
+pytest>=7.4.0
+black>=23.0.0
+flake8>=6.0.0
+
+# Monitoring and Logging
+loguru>=0.7.0
+pydantic>=2.4.0
+pydantic-settings>=2.0.0
+
+# Additional Dependencies (Stability & Compatibility)
+typing-extensions>=4.5.0
+requests>=2.28.0
+aiohttp>=3.8.0
+markdown>=3.4.0
+

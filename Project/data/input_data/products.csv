@@ -1,0 +1,16 @@
+product_id,product_name,product_type,risk_level,min_investment,expected_return,expense_ratio,category,description
+MF001,Growth Equity Fund,Mutual Fund,High,5000,12-15%,1.2%,Equity,High-growth equity fund for aggressive investors
+MF002,Balanced Advantage Fund,Mutual Fund,Moderate,1000,8-12%,1.5%,Hybrid,Dynamic asset allocation fund
+MF003,Conservative Hybrid Fund,Mutual Fund,Low,2000,6-9%,1.1%,Hybrid,Conservative balanced fund
+MF004,Large Cap Equity Fund,Mutual Fund,Moderate,3000,10-13%,1.0%,Equity,Diversified large-cap equity fund
+MF005,Mid Cap Growth Fund,Mutual Fund,High,10000,14-18%,1.8%,Equity,High-growth mid-cap opportunities
+MF006,Debt Income Fund,Mutual Fund,Low,1000,5-7%,0.8%,Debt,Stable income through debt instruments
+FD001,Fixed Deposit - 1 Year,Fixed Deposit,Low,1000,6.5%,0%,Debt,Guaranteed returns with capital protection
+FD002,Fixed Deposit - 3 Year,Fixed Deposit,Low,5000,7.2%,0%,Debt,Higher returns for longer tenure
+FD003,Tax Saver Fixed Deposit,Fixed Deposit,Low,1000,6.8%,0%,Debt,Tax-saving fixed deposit under 80C
+ELSS001,Tax Saver Equity Fund,ELSS,High,500,11-16%,1.5%,Equity,Tax-saving equity fund with 3-year lock-in
+ELSS002,Diversified ELSS Fund,ELSS,Moderate,500,9-14%,1.3%,Equity,Balanced ELSS for tax savings
+PPF001,Public Provident Fund,PPF,Low,500,7.1%,0%,Debt,15-year tax-free investment scheme
+NSC001,National Savings Certificate,NSC,Low,1000,6.8%,0%,Debt,5-year government-backed savings
+BOND001,Corporate Bond Fund,Bond Fund,Low,10000,7-9%,0.5%,Debt,High-grade corporate bonds
+BOND002,Government Securities Fund,Bond Fund,Low,5000,6-8%,0.4%,Debt,Government securities for safety

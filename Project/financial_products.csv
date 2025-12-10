@@ -1,0 +1,11 @@
+product_id,product_name,product_type,risk_level,min_investment,expected_return,expense_ratio,category,description
+MF001,SBI Bluechip Fund,Mutual Fund,High,500,12-15%,1.6%,Equity,"Invests primarily in large-cap companies, aiming for long-term capital appreciation. Suitable for investors with a high-risk appetite."
+MF001,SBI Bluechip Fund,Mutual Fund,High,5000,12-15%,1.0%,Equity,Invests in large-cap companies with a focus on long-term capital appreciation. Suitable for investors seeking high growth potential.
+GSEC001,7.38% GOI 2027,Government Bond,Low,10000,7.38%,0%,Debt,"A direct investment in a 10-year Government of India security, offering fixed interest payments and high safety."
+GSEC001,7.38% GOI 2027,Government Bond,Low,10000,7.38%,0%,Debt,"A direct investment in a 10-year Government of India security, offering fixed interest payments and high safety."
+FD001,SBI Fixed Deposit,Fixed Deposit,Low,1000,5.0-6.5%,0%,Debt,"A secure investment option offered by the State Bank of India, providing guaranteed returns over a fixed tenure."
+FD001,SBI Fixed Deposit,Fixed Deposit,Low,1000,6.5-7.0%,0%,Debt,A traditional fixed deposit offering guaranteed returns for a fixed tenure with the State Bank of India.
+ELSS001,Mirae Asset Tax Saver Fund,ELSS,High,500,12-15%,1.6%,Equity,"An ELSS fund investing primarily in equity and equity-related instruments, offering tax benefits under Section 80C with a 3-year lock-in period."
+ELSS001,Mirae Asset Tax Saver Fund,ELSS,High,500,12-15%,0.8%,Equity,"An ELSS fund investing primarily in equities, offering tax benefits under Section 80C with a 3-year lock-in period. Aims for long-term capital appreciation."
+PPF001,Public Provident Fund,PPF,Low,500,7.1%,0%,Debt,"A long-term, government-backed savings scheme offering tax benefits and guaranteed returns. Ideal for retirement planning and capital preservation."
+PPF001,Public Provident Fund,PPF,Low,500,7.1%,0%,Debt,"A long-term, government-backed savings scheme offering tax benefits and guaranteed returns. Ideal for retirement planning and capital preservation."

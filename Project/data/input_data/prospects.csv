@@ -1,0 +1,11 @@
+prospect_id,name,age,annual_income,current_savings,target_goal_amount,investment_horizon_years,number_of_dependents,investment_experience_level,investment_goal
+P001,John Doe,35,800000,500000,2000000,10,2,Intermediate,Retirement Planning
+P002,Jane Smith,28,1200000,300000,5000000,15,0,Advanced,Wealth Creation
+P003,Robert Johnson,45,600000,800000,1500000,8,3,Beginner,Children Education
+P004,Emily Davis,32,950000,400000,3000000,12,1,Intermediate,Home Purchase
+P005,Michael Brown,52,1500000,1200000,2500000,6,2,Advanced,Early Retirement
+P006,Sarah Wilson,29,700000,200000,4000000,18,0,Beginner,Financial Independence
+P007,David Miller,41,1100000,600000,2200000,9,2,Intermediate,Wealth Preservation
+P008,Lisa Anderson,38,850000,450000,1800000,7,1,Advanced,Investment Growth
+P009,James Taylor,26,550000,150000,3500000,20,0,Beginner,Long-term Wealth
+P010,Maria Garcia,48,1300000,900000,2000000,5,3,Intermediate,Retirement Security
